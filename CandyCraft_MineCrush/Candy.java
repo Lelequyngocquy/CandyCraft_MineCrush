@@ -138,7 +138,7 @@ public class Candy implements ActionListener{
 	}
 
 	private void swapAndCheck(int i, int j, Color tmp, String tmp1, String tmp12, ImageIcon tmp2, Color tmpZ, String tmp1Z, ImageIcon tmp2Z) {
-		// đổi chỗ kẹo;
+		//swap the positions
 	   
 		bn[i][j].setBackground(bn[x][y].getBackground());
 		bn[x][y].setBackground(tmp);
