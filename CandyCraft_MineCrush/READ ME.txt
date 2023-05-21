@@ -1,4 +1,4 @@
-complie 2 files Candy.java, CandyLevel.java CandyGUI.java and CandyPlay.java to .class
+complie 4 files Candy.java, CandyLevel.java CandyGUI.java and CandyPlay.java to .class
 (javac Candy.java CandyLevel.java CandyGUI.java CandyPlay.java)
 
 run CandyPlay.java to play the game
