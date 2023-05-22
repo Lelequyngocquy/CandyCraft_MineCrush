@@ -1,3 +1,13 @@
+/* Group 1. NH4, TTH2, Object Oriented Programming course, INTERNATIONAL UNIVERSITY - VIETNAM NATIONAL UNIVERSITY
+
+Le Ngoc Quy 		ITITIU21296
+Nguyen Thi Hai Yen 	ITITIU21353
+Nguyen Dy Nien 		ITITIU21272
+Nguyen Do Hoang Phi 	ITITIU21275
+ Purpose: The purpose of the CandyGUI class is to provide the graphical user interface (GUI) for the Candy game. It handles the visual representation of the game elements and allows users to interact with the game.
+*/
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
