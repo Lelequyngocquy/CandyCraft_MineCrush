@@ -1,3 +1,14 @@
+/* Group 1. NH4, TTH2, Object Oriented Programming course, INTERNATIONAL UNIVERSITY - VIETNAM NATIONAL UNIVERSITY
+
+Le Ngoc Quy 		ITITIU21296
+Nguyen Thi Hai Yen 	ITITIU21353
+Nguyen Dy Nien 		ITITIU21272
+Nguyen Do Hoang Phi 	ITITIU21275
+ Purpose: The purpose of the CandyLevel class is to define and manage the specific characteristics and behaviors of each level in the Candy game. 
+It represents an individual level with its unique configuration, goals, and challenges.
+*/
+
+
 public class CandyLevel{
 	
 	private static int level;
