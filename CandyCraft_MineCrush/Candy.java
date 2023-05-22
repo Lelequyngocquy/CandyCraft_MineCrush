@@ -1,3 +1,12 @@
+/* Group 1. NH4, TTH2, Object Oriented Programming course, INTERNATIONAL UNIVERSITY - VIETNAM NATIONAL UNIVERSITY
+
+Le Ngoc Quy 		ITITIU21296
+Nguyen Thi Hai Yen 	ITITIU21353
+Nguyen Dy Nien 		ITITIU21272
+Nguyen Do Hoang Phi 	ITITIU21275
+ Purpose: The purpose of the Candy class is to provide the core logic and functionality for the Candy game. It serves as the main class that handles the game mechanics, interactions, and rules.
+*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
